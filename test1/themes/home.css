@@ -10,13 +10,17 @@
     border-bottom: 10px;
     border-bottom: rgba(0, 0, 0, 0.363);
 }
+
 .header2{
     background-color: white;
+    width: 100%;
+    padding-bottom: 2%;
 }
 .header2 img{  
-    background: url('../images/logoheader.png') no-repeat fixed;
+    background: url('../images/logoheader.png') no-repeat ;
     float: left;
     width: 100% ;
+
 }
 .nav1{
     background-color: white;
@@ -162,7 +166,7 @@ font-family: 'Quicksand', sans-serif;
     font-family: 'Quicksand', sans-serif;
 }
 .footer2{
-    padding:16px;
+    padding:4px;
     width: 100%;
     background-color: #8C2542;
     color: honeydew;
@@ -170,7 +174,8 @@ font-family: 'Quicksand', sans-serif;
     text-align: center;
     display:inline-block;
     font-family: 'Quicksand', sans-serif;
-    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    box-shadow: 3px 3px 2px 1px rgba(0, 0, 0, 0.1);
+
 
     
 }
@@ -189,12 +194,14 @@ font-family: 'Quicksand', sans-serif;
 .list{
     display: inline-block;
     margin-top: 0%;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 .bannerfooter{
     text-align: center;
     float: left;
     padding: 2%;
     font-family: 'Quicksand', sans-serif;
+
  
 }
 .bannerfooter1{
