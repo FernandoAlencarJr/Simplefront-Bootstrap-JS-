@@ -1,0 +1,243 @@
+
+.header1{
+    background-color: #e01d57;
+    color: white;
+    width: 100%;
+    height: 100%;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 13px;
+    border-bottom: 10px;
+    border-bottom: rgba(0, 0, 0, 0.363);
+}
+.header2{
+    background-color: white;
+}
+.header2 img{  
+    background: url('../images/logoheader.png') no-repeat fixed;
+    float: left;
+    width: 100% ;
+}
+.nav1{
+    background-color: white;
+    padding: 3% 4%;
+}
+.form-control{
+    background: url('../images/icon/magnifying-glass.png') right no-repeat;
+    background-color: rgba(169, 169, 169, 0.699);
+}
+.headercontainer img{
+    max-width: 320px;
+    max-height: 568px;
+    width: auto;
+    height: auto;
+}
+.card-img{
+ width: 100%;
+ height: 450px;
+}
+.card1{
+    margin-top: 6%;
+    margin-bottom: 5%;
+}
+.card-body{
+    border: 1px solid #8C2542;
+}
+.card h5{
+    color: #8C2542;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+
+}
+.card img{
+    float:left;
+    cursor: pointer;
+}
+.card-deck{
+    width: 100%;
+    cursor: pointer;
+    padding: 0% 20%;
+    border-color: #8C2542;
+    font-family: 'Quicksand', sans-serif;
+
+}
+.card-group{
+    margin-top: 5%;
+    width: 100%;
+    cursor: pointer;
+    padding: 0% 20%;
+    margin-bottom: 4%;
+}
+.card-text1{
+    text-align: center;
+    color: slategrey;
+    font-style: unset;
+}
+.card-text2{
+    color: #8C2542;
+    text-align: center;
+    font-size: large;
+}
+.card-title{
+    text-align: center;
+}
+
+.card:hover{
+    background-color: rgba(255, 99, 71, 0.39);
+}
+.col1{
+    font-size: 30px;
+    margin-top: 40px;
+}
+.col2{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 8%;
+}
+.col2:hover{
+    background-color: rgba(255, 99, 71, 0.39); 
+    cursor: pointer;
+    border-color: violet;
+    border-radius: 75%;
+}
+.card3{
+
+width: 100%;
+
+
+}
+.col4 h1{
+text-align: center;
+margin-top: 5%;
+font-family: 'Quicksand', sans-serif;
+}
+.divfooterbody{
+    padding-top: 4%;
+    width: 100%;
+
+}
+.div1{
+    float: left;
+    padding-top: 4%;
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+    padding: 0% 2%;
+}
+.div2{
+    float: right;
+    padding-top: 4%;
+    background-color: #e01d57;
+    color: cornsilk;
+    text-align: center;
+    border-right: 20%;
+    font-family: 'Quicksand', sans-serif;
+    box-shadow: 3px 2px 2px 3px rgba(0, 0, 0, 0.2);
+    
+}
+.div1 a{
+    color: #8C2542;
+}
+.nomespec{
+    background: url('../images/icon/user.png') no-repeat right;
+    background-color: cornsilk;
+    width: 50%;
+}
+.emailspec{
+    background: url('../images/icon/envelope.png') no-repeat right;
+    background-color: cornsilk;
+    width: 50%;
+}
+.btn-footer{
+    background-color: #8C2542;
+    color: cornsilk;
+    float: left;
+    width: 15%;
+    height: 50px;
+    margin-left: 25%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-family: 'Quicksand', sans-serif;
+}
+.footer2{
+    padding:16px;
+    width: 100%;
+    background-color: #8C2542;
+    color: honeydew;
+    font-size: 13px;
+    text-align: center;
+    display:inline-block;
+    font-family: 'Quicksand', sans-serif;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+    
+}
+.footer2 ul{
+
+    display:inline-block;
+    text-align: center;
+    margin-right: 3%;
+}
+.footer2 li{
+    padding: 2% 1%;
+    display: table-row;
+    text-align: center;
+    cursor: pointer;
+}
+.list{
+    display: inline-block;
+    margin-top: 0%;
+}
+.bannerfooter{
+    text-align: center;
+    float: left;
+    padding: 2%;
+    font-family: 'Quicksand', sans-serif;
+ 
+}
+.bannerfooter1{
+    text-align: center;
+    float: left;
+    padding: 2% ;
+    font-family: 'Quicksand', sans-serif;
+
+
+}
+.bannerfooter2{
+    text-align: center;
+    float: left;
+    padding: 2% ;
+    font-family: 'Quicksand', sans-serif;
+}
+.footermain h1{
+    width: 100%;
+    padding: 1% 2%;
+    font-size: 20px;
+    color: darkgray;
+    text-align: center;
+}
+.footermain img{
+    width: 40%;
+    padding: 1% 2%;
+    font-size: 20px;
+}
+.footermain{
+ width: 100%;
+ margin-top: 0%;
+ margin-bottom: 0%;
+ margin-left: 0%;
+ box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+.container1{
+    font-family: 'Quicksand', sans-serif;
+    padding: 0% 20%;
+    
+}
+.footer2 li:hover{
+    border :1px solid black;
+    background-color: #e01d57;
+    border-radius: 64px;
+}
+body{
+    background-color: #f6f6f6!important;
+}
